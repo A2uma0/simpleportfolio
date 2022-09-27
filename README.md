@@ -20,7 +20,7 @@ If you want to change the images put them in the `assets/` folder and add them t
 (If you are using gifs and they don't loop, refer to [this](https://stackoverflow.com/questions/40498474/play-gif-image-in-html-with-infinite-loop))
 
 There also is a commented-out music player, which plays a mp3 file in the background. <br>
-If you want to use that, just comment it out and point to your mp3 file.
+If you want to use that, just remove the comment and point to your mp3 file.
 ## Stuff used
 - [Cursor Effects](https://github.com/tholman/cursor-effects)
 - [Font](https://fonts.google.com/specimen/Poppins)
