@@ -1,5 +1,6 @@
 # Simple Portfolio
 - [Live preview](https://a2uma0.github.io/simpleportfolio/)
+- Written because I was bored, anime gifs because why not 😳
 
 ### Features
 - "Animated" image 🎬
