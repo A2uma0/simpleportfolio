@@ -1,5 +1,5 @@
 # Simple Portfolio
-- [Live preview]()
+- [Live preview](https://a2uma0.github.io/simpleportfolio/)
 
 ### Features
 - "Animated" image 🎬
