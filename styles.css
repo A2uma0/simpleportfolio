@@ -63,7 +63,7 @@ h1 {
 .link:hover {
     text-decoration: underline;
     opacity: 80%;
-
+    font-size: large;
 }
 
 /* Don't display audio control */
